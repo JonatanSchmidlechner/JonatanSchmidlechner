@@ -6,6 +6,7 @@ Hi! I'm Jonatan Schmidlechner, a master's student in computer science. I have a 
 - **[Moduuler (Youtube demo) - Kitchen component 3d editing tool](https://github.com/JonatanSchmidlechner/Moduuler-demo):** Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application. As this project was done for a private company, I don't show any source code. This project was done in Spring 2024 as part of the Software project 1 course. **It is by far the most ambitious project I have been part of.** The code files presented here demonstrate my coding skills in Typescript and React as well as some skills using Redux slices. As prior to this project I had no experience in web development, this also demonstrates my ability to learn new technologies fast. This project also demonstrates my knowledge about how to work in a small development team using agile methods.
 - **[Kubernetes submissions](https://github.com/JonatanSchmidlechner/-KubernetesSubmissions)** This repository was for course "Devops with Kubernetes". Here I deployed some dummy projects using local kubernetes clusters as well as Google Kubernetes Engine. During the course I learned a lot. Here are some areas that come to mind:
   - Container orchestration and scaling
+  - Networking between containers
   - Automatic container recovery
   - Resource management (CPU & RAM requests/limits)
   - Rolling updates with zero downtime

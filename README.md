@@ -3,7 +3,11 @@
 Hi! I'm Jonatan Schmidlechner, a master's student in computer science. I have a bachelor's degree in computer science with a major in software development and minor in signal processing and machine learning. This GitHub account is my portfolio showcasing various programming projects I've worked on. Below is a quick overview of the projects. Detailed information about each project can be found in its respective repository.
 
 ## Featured Projects
-- **[Moduuler (Youtube demo) - Kitchen component 3d editing tool](https://github.com/JonatanSchmidlechner/Moduuler-demo):** Moduuler is a 3D editor application. It is intended to be used as a React component installed as an npm package in the parent application. As this project was done for a private company, I don't show any source code. This project was done in Spring 2024 as part of the Software project 1 course. **It is by far the most ambitious project I have been part of.** The code files presented here demonstrate my coding skills in Typescript and React as well as some skills using Redux slices. As prior to this project I had no experience in web development, this also demonstrates my ability to learn new technologies fast. This project also demonstrates my knowledge about how to work in a small development team using agile methods.
+- **[Moduuler (Youtube demo) - Kitchen component 3d editing tool](https://github.com/JonatanSchmidlechner/Moduuler-demo):**
+  - Developed a 3D editor React component for a private company (npm package integration). Source code not publicly available. Check the video demo.
+  - Completed in Spring 2024 as part of Software Project 1 course.
+  - Demonstrates skills in TypeScript, React, and Redux slices, as well as the ability to quickly learn new technologies.
+  - Showcases experience working in a small agile development team and applying software engineering best practices.
 - **[Kubernetes submissions](https://github.com/JonatanSchmidlechner/-KubernetesSubmissions)** This repository was for course "Devops with Kubernetes". Here I deployed some dummy projects using local kubernetes clusters as well as Google Kubernetes Engine. During the course I learned a lot. Here are some areas that come to mind:
   - Container orchestration and scaling
   - Networking between containers

@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 👋
 
-Hi! I'm Jonatan Schmidlechner, a master's student in computer science. I have a bachelor's degree in computer science with a major in software development and minor in signal processing and machine learning. This GitHub account is my portfolio showcasing various programming projects I've worked on. Below is a quick overview of the projects. Detailed information about each project can be found in its respective repository.
+Hi! I'm Jonatan Schmidlechner, an almost-graduated master's student in computer science. This GitHub account is my portfolio showcasing various programming projects I've worked on. Below is a quick overview of the projects. Detailed information about each project can be found in its respective repository. The projects are sorted according to relevance, the top most projects are the most relevant.
 
 ## Featured Projects
 - **[Competency management tool](https://github.com/ArtoKorpiharju/Osaamisenhallinta):** A web application (Spring Boot backend + React frontend + PostgreSQL database) developed for a private company for managing employee qualifications and competencies. Work still in progress. Belongs to the university's Software Engineering Project 2 (2026 Autumn). We had a team of 7 including 3 master students and 4 bachelor students.

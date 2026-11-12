@@ -4,7 +4,7 @@ Hi! I'm Jonatan Schmidlechner, a master's student in computer science. I have a 
 
 ## Featured Projects
 - **[Competency management tool](https://github.com/ArtoKorpiharju/Osaamisenhallinta):** A web application (Spring Boot backend + React frontend + PostgreSQL database) developed for a private company for managing employee qualifications and competencies. Work still in progress. Belongs to the university's Software Engineering Project 2 (2026 Autumn). We had a team of 7 including 3 master students and 4 bachelor students.
-  - I was the Lead Backend Developer, Software Architect & Product owner.
+  - I was the **Lead Backend Developer**, **Software Architect** & **Product owner**.
   - Scope: Solely responsible for designing and building the entire Spring Boot backend including the database from the ground up, operating independently without technical supervision or experienced (in spring boot) peers. Most of the backend code was written by me, while some of it was written by a bachelor student coached and supervised by me.
   - My contributions:
     - **System Design**: Architected the end-to-end software solution, creating the core domain model, ER diagrams, and component architecture spanning the frontend, REST controllers, services, and persistence layers.
